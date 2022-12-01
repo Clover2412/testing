@@ -1,0 +1,8 @@
+{
+analysisType:VCF,
+sampleCategories: [{credit_system_id:1, name:“Samples”}]
+},
+{
+analysisType:FASTQ,
+sampleCategories: [{name:“Targeted”}, {name:“Genomes”}]
+}
