@@ -1,5 +1,5 @@
 {
-	"data": [{
+	"test": [{
 			"id": 1,
 			"analysisType": "VCF",
 			"sampleCategories": [{
