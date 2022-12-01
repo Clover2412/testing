@@ -1,11 +1,13 @@
 {
 	"data": [{
+			"id": 1,
 			"analysisType": "VCF",
 			"sampleCategories": [{
 				"name": "Samples"
 			}]
 		},
 		{
+			"id": 2,
 			"analysisType": "FASTQ",
 			"sampleCategories": [{
 				"name": "Targeted"
