@@ -1,13 +1,11 @@
 {
 	"test": [{
-			"id": 1,
 			"analysisType": "VCF",
 			"sampleCategories": [{
-				"name": "Samples"
+				"name": "Total"
 			}]
 		},
 		{
-			"id": 2,
 			"analysisType": "FASTQ",
 			"sampleCategories": [{
 				"name": "Targeted"
