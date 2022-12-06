@@ -3,7 +3,7 @@
 			"analysisType": "VCF",
 			"sampleCategories": [{
 				"credit_system_id": 1,
-				"name": "Total"
+				"name": "Samples"
 			}]
 		},
 		{
